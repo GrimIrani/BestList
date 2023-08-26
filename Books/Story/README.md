@@ -1,3 +1,4 @@
 #### Novel
 #### Bedtime
 #### LightNovel
+#### FairyTale

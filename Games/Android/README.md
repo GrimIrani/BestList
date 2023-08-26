@@ -1,0 +1,23 @@
+## Category:
+#### Arcade
+#### FPS
+#### Racing
+#### Simulation
+#### Emulator
+#### Puzzle
+#### Story
+#### RPG
+#### Platformer
+#### RealTime
+#### Sport
+#### Flight
+#### Fighting
+
+## Tags:
+#### Recommended
+#### Fun
+#### Endless
+#### Hardcore
+#### online
+#### offline
+#### Multi

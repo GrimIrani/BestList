@@ -7,17 +7,25 @@
 # Arcadium - Space Shooter
 https://play.google.com/store/apps/details?id=com.ihgyug.arcadium
 
-# Developer:
+## Developer:
 Luciano Bercini
 
-# description:
+## description:
 indie game
 
-# Gift codes:
+## Gift codes:
 |   code   |
 | -------- |
 | ARCADIUM |
 | ARCADIUM3|
+| CHEATER  |
+|SUMMERGIFT|
+|WINTERGIFT|
+|SPRINGGIFT|
+|AUTUMNGIFT|
+| SANTAGIFT|
+|HALLOWEENGIFT|
+|NEWYEARGIFT|
 |DOWNLOADX100|
 |DOWNLOADX1000|
 |DOWNLOADX10000|
@@ -26,3 +34,6 @@ indie game
 |DOWNLOADX500|
 |DOWNLOADX5000|
 |DOWNLOADX50000|
+
+## Refrences:
+- https://www.hhjack.com/tag/giftcode/

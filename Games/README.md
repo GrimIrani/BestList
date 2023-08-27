@@ -42,7 +42,9 @@ NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES.
 ![GBA](https://img.shields.io/badge/GBA-gold)
 ![N64](https://img.shields.io/badge/N64-gold)
 ![GameCube](https://img.shields.io/badge/GameCube-gold)
+![NDS](https://img.shields.io/badge/NDS-gold)
 ![WII](https://img.shields.io/badge/WII-gold)
+![3DS](https://img.shields.io/badge/3DS-gold)
 ![WIIU](https://img.shields.io/badge/WIIU-gold)
 ![SWITCH](https://img.shields.io/badge/SWITCH-gold)
 

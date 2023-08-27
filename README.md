@@ -1,6 +1,6 @@
-![Static badge](https://img.shields.io/badge/READ-TO_LEARN-gold)
-![Static badge](https://img.shields.io/badge/WATCH-TO_ENJOY-gold)
-![Static badge](https://img.shields.io/badge/PLAY-TO_ALIVE-gold)
+![Book](https://img.shields.io/badge/READ-TO_LEARN-gold)
+![Movie](https://img.shields.io/badge/WATCH-TO_ENJOY-gold)
+![Game](https://img.shields.io/badge/PLAY-TO_ALIVE-gold)
 
 # BOOKS:
 <img 

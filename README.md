@@ -4,7 +4,7 @@
 
 # BOOKS:
 <img 
-  src="/resource/Book.jpg"
+  src="https://img.icons8.com/color/128/book.png"
   width="128"
   align="right"
 />
@@ -14,7 +14,7 @@ null null null null null null null null null null null null null
 
 # GAMES:
 <img 
-  src="/resource/Game.jpg"
+  src="https://img.icons8.com/color/128/controller.png"
   width="128"
   align="right"
 />
@@ -24,7 +24,7 @@ null null null null null null null null null null null null null
 
 # MOVIES
 <img 
-  src="/resource/Movie.jpg"
+  src="https://img.icons8.com/color/128/clapperboard--v2.png"
   width="128"
   align="right"
 />

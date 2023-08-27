@@ -94,3 +94,22 @@ XBOX GAMING LIKE... OH CRAP, I WANT THAT GAME BUT... OH CRAP.
 ![XBOX SERIES X/S](https://img.shields.io/badge/XBOX_SERIEES_X%2fS-gold)
 
 - - -
+
+# More
+### Atari:
+<img 
+  src="https://img.icons8.com/color/128/atari-2600.png"
+  width="128"
+  align="right"
+/>
+> CLICK TO PLAY
+
+G(old).
+
+![Atari 2600](https://img.shields.io/badge/Atari_2600-gold)
+![Atari 5200](https://img.shields.io/badge/Atari_5200-gold)
+![Atari XEGS](https://img.shields.io/badge/Atari_XEGS-gold)
+![Atari Lynx1](https://img.shields.io/badge/Atari_Lynx1-gold)
+![Atari Lynx2](https://img.shields.io/badge/Atari_Lynx2-gold)
+![Atari Jaguar](https://img.shields.io/badge/Atari_Jaguar-gold)
+- - -

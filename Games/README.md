@@ -9,6 +9,7 @@
 ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
 ![Arcade](https://img.shields.io/badge/Arcade-gold)
+
 - - -
 ### Linux:
 <img 
@@ -19,6 +20,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 > CLICK TO PLAY
 
 LINUX GAMING?... YOU SHOULD USE WINE, BUT DO NOT DRUNK!!!
+
 - - -
 ### Nintendo:
 <img 
@@ -28,7 +30,9 @@ LINUX GAMING?... YOU SHOULD USE WINE, BUT DO NOT DRUNK!!!
 />
 > CLICK TO PLAY
 
-NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES
+NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES.
+
+
 - - -
 ### PlayStation:
 <img 
@@ -39,6 +43,7 @@ NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES
 > CLICK TO PLAY
 
 PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE
+
 - - -
 ### Windows:
 <img 
@@ -47,9 +52,9 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE
   align="right"
 />
 > CLICK TO PLAY
-- - -
 BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
 
+- - -
 ### XBOX:
 <img 
   src="https://img.icons8.com/color/128/xbox.png"

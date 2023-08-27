@@ -1,6 +1,6 @@
 # Android:
 <img 
-  src="Android.png"
+  src="https://img.icons8.com/color/128/android-os.png"
   width="128"
   align="right"
 />
@@ -10,7 +10,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
 # Windows:
 <img 
-  src="windows.png"
+  src="https://img.icons8.com/color/128/windows-11.png"
   width="128"
   align="right"
 />

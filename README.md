@@ -2,32 +2,35 @@
 ![Movie](https://img.shields.io/badge/WATCH-TO_ENJOY-gold)
 ![Game](https://img.shields.io/badge/PLAY-TO_ALIVE-gold)
 
-# BOOKS:
+- - -
+### BOOKS:
 <img 
   src="https://img.icons8.com/color/128/book.png"
   width="128"
   align="right"
 />
-> CLICK ON THE **BOOK**
+> CLICK ON THE **ICON**
 
-null null null null null null null null null null null null null
+YOU LEARN, YOU GOT XP, YOU CAN NOW MAGIC AND IT'S THE TRUTH OF BOOKS.
 
-# GAMES:
+- - -
+### GAMES:
 <img 
   src="https://img.icons8.com/color/128/controller.png"
   width="128"
   align="right"
 />
-> CLICK ON THE **Game CONTROLLER**
+> CLICK ON THE **ICON**
 
-null null null null null null null null null null null null null
+YOU SHALL PLAY, 'CUZ THERE'S NO WORK ANYMORE BUT PLAYING.
 
-# MOVIES
+- - -
+### MOVIES
 <img 
   src="https://img.icons8.com/color/128/clapperboard--v2.png"
   width="128"
   align="right"
 />
-> CLICK ON THE **TV**
+> CLICK ON THE **ICON**
 
-null null null null null null null null null null null null null
+I MEAN WHY NOT? YOU JUST RELAX AND REST... GOOD WHEN YOU'RE TIRED.

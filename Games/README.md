@@ -22,7 +22,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 LINUX GAMING?
 ... YOU SHOULD USE WINE, BUT DO NOT DRUNK!!!
 
-![WINE](https://img.shields.io/badge/WINE-gold)
+![WINE](https://img.shields.io/badge/WINE-purple)
 
 - - -
 ### Nintendo:

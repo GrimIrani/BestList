@@ -1,4 +1,4 @@
-# Android:
+### Android:
 <img 
   src="https://img.icons8.com/color/128/android-os.png"
   width="128"
@@ -10,7 +10,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
 ![Arcade](https://img.shields.io/badge/Arcade-gold)
 - - -
-# Linux:
+### Linux:
 <img 
   src="https://img.icons8.com/color/128/linux.png"
   width="128"
@@ -20,7 +20,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
 LINUX GAMING?... YOU SHOULD USE WINE, BUT DO NOT DRUNK!!!
 - - -
-# Nintendo:
+### Nintendo:
 <img 
   src="https://img.icons8.com/color/128/nintendo.png"
   width="128"
@@ -30,7 +30,7 @@ LINUX GAMING?... YOU SHOULD USE WINE, BUT DO NOT DRUNK!!!
 
 NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES
 - - -
-# PlayStation:
+### PlayStation:
 <img 
   src="https://img.icons8.com/color/128/play-station.png"
   width="128"
@@ -40,7 +40,7 @@ NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES
 
 PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE
 - - -
-# Windows:
+### Windows:
 <img 
   src="https://img.icons8.com/color/128/windows-11.png"
   width="128"
@@ -50,7 +50,7 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE
 - - -
 BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
 
-# XBOX:
+### XBOX:
 <img 
   src="https://img.icons8.com/color/128/xbox.png"
   width="128"
@@ -59,3 +59,4 @@ BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
 > CLICK TO PLAY
 
 XBOX GAMING LIKE... OH CRAP, I WANT THAT GAME BUT... OH CRAP
+- - -

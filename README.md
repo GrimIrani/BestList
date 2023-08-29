@@ -35,3 +35,14 @@ YOU SHALL PLAY, 'CUZ THERE'S NO WORK ANYMORE BUT PLAYING.
 > CLICK ON THE **ICON**
 
 I MEAN WHY NOT? YOU JUST RELAX AND REST... GOOD WHEN YOU'RE TIRED.
+- - -
+
+### MUSICS
+[<img 
+  src="https://img.icons8.com/color/128/music.png"
+  width="128"
+  align="right"
+/>](./Musics)
+> CLICK ON THE **ICON**
+
+SOMETIMES WE NEED IT, BUT IT'S TOTALLY DEPENDS ON YOUR TASTE.

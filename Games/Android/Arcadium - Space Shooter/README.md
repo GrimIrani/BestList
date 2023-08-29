@@ -13,6 +13,7 @@
 ![spaceship](https://img.shields.io/badge/spaceship-gold)
 ![pixel](https://img.shields.io/badge/pixel-gold)
 ![hardcore](https://img.shields.io/badge/hardcore-gold)
+![offline](https://img.shields.io/badge/offline-gold)
 
 # Description:
 It's fun, you can reach 100K and earn every achievements to feel a nice challenge.

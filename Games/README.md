@@ -1,9 +1,9 @@
 ### Android:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/android-os.png"
   width="128"
   align="right"
-/>
+/>](./Android)
 > CLICK TO PLAY
 
 ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
@@ -12,11 +12,11 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
 - - -
 ### Linux:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/linux.png"
   width="128"
   align="right"
-/>
+/>](./Linux)
 > CLICK TO PLAY
 
 LINUX GAMING?
@@ -26,11 +26,11 @@ LINUX GAMING?
 
 - - -
 ### Nintendo:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/nintendo.png"
   width="128"
   align="right"
-/>
+/>](./Nintendo)
 > CLICK TO PLAY
 
 NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES.
@@ -50,11 +50,11 @@ NINTENDO USING ROMS... I MEAN THE BEST FREE... OH NO I MEAN... BUY THE GAMES.
 
 - - -
 ### PlayStation:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/play-station.png"
   width="128"
   align="right"
-/>
+/>](./PlayStation)
 > CLICK TO PLAY
 
 PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE.
@@ -68,11 +68,11 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE.
 
 - - -
 ### Windows:
-<img 
+(<img 
   src="https://img.icons8.com/color/128/windows-11.png"
   width="128"
   align="right"
-/>
+/>](./Windows)
 > CLICK TO PLAY
 
 BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
@@ -80,12 +80,12 @@ BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
 ![Arcade](https://img.shields.io/badge/Arcade-gold)
 
 - - -
-### XBOX:
-<img 
+### Xbox:
+[<img 
   src="https://img.icons8.com/color/128/xbox.png"
   width="128"
   align="right"
-/>
+/>](./Xbox)
 > CLICK TO PLAY
 
 XBOX GAMING LIKE... OH CRAP, I WANT THAT GAME BUT... OH CRAP.
@@ -99,11 +99,11 @@ XBOX GAMING LIKE... OH CRAP, I WANT THAT GAME BUT... OH CRAP.
 
 # More
 ### Atari:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/atari-2600.png"
   width="128"
   align="right"
-/>
+/>](./More/Atari)
 > CLICK TO PLAY
 
 G(old).

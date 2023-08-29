@@ -4,33 +4,33 @@
 
 - - -
 ### BOOKS:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/book.png"
   width="128"
   align="right"
-/>
+/>](./Books)
 > CLICK ON THE **ICON**
 
 YOU LEARN, YOU GOT XP, NOW YOU CAN MAGIC AND IT'S THE TRUTH OF BOOKS.
 
 - - -
 ### GAMES:
-<img 
+[<img 
   src="https://img.icons8.com/color/128/controller.png"
   width="128"
   align="right"
-/>
+/>](./Games)
 > CLICK ON THE **ICON**
 
 YOU SHALL PLAY, 'CUZ THERE'S NO WORK ANYMORE BUT PLAYING.
 
 - - -
 ### MOVIES
-<img 
+[<img 
   src="https://img.icons8.com/color/128/clapperboard--v2.png"
   width="128"
   align="right"
-/>
+/>](./Movies)
 > CLICK ON THE **ICON**
 
 I MEAN WHY NOT? YOU JUST RELAX AND REST... GOOD WHEN YOU'RE TIRED.

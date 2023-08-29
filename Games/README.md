@@ -8,7 +8,7 @@
 
 ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 
-![Arcade](https://img.shields.io/badge/Arcade-gold)
+[![Arcade](https://img.shields.io/badge/Arcade-gold)](./Android/#Arcade)
 
 - - -
 ### Linux:
@@ -77,7 +77,7 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE.
 
 BEST GAMES IN THE WORSE OS...COMPLETE THEM TO REAL ENJOY!
 
-![Arcade](https://img.shields.io/badge/Arcade-gold)
+[![Arcade](https://img.shields.io/badge/Arcade-gold)](./Windows/#Arcade)
 
 - - -
 ### Xbox:

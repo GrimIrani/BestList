@@ -115,3 +115,17 @@ G(old).
 ![Atari Lynx2](https://img.shields.io/badge/Atari_Lynx2-gold)
 ![Atari Jaguar](https://img.shields.io/badge/Atari_Jaguar-gold)
 - - -
+
+### Sega:
+[<img 
+  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/128/external-sega-a-japanese-multinational-video-game-developer-and-publisher-company-logo-color-tal-revivo.png"
+  width="128"
+  align="right"
+/>](./More/Sega)
+> CLICK TO PLAY
+
+REVOLUTION.
+
+![Sega saturn](https://img.shields.io/badge/Sega_saturn-gold)
+
+- - -

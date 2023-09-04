@@ -37,6 +37,7 @@ G(old).
 
 ![Atari 2600](https://img.shields.io/badge/Atari_2600-gold)
 ![Atari 5200](https://img.shields.io/badge/Atari_5200-gold)
+![Atari 7800](https://img.shields.io/badge/Atari_7800-gold)
 ![Atari XEGS](https://img.shields.io/badge/Atari_XEGS-gold)
 ![Atari Lynx1](https://img.shields.io/badge/Atari_Lynx1-gold)
 ![Atari Lynx2](https://img.shields.io/badge/Atari_Lynx2-gold)

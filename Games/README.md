@@ -11,6 +11,38 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
 [![Arcade](https://img.shields.io/badge/Arcade-gold)](./Android/#Arcade)
 
 - - -
+### Arcade:
+[<img 
+  src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-arcade-devices-flaticons-flat-flat-icons.png"
+  width="128"
+  align="right"
+/>](./More/Arcade)
+> CLICK TO PLAY
+
+BEST.
+
+![MAME](https://img.shields.io/badge/MAME-purple)
+![neogeo](https://img.shields.io/badge/neogeo-gold)
+
+- - -
+### Atari:
+[<img 
+  src="https://img.icons8.com/color/128/atari-2600.png"
+  width="128"
+  align="right"
+/>](./More/Atari)
+> CLICK TO PLAY
+
+G(old).
+
+![Atari 2600](https://img.shields.io/badge/Atari_2600-gold)
+![Atari 5200](https://img.shields.io/badge/Atari_5200-gold)
+![Atari XEGS](https://img.shields.io/badge/Atari_XEGS-gold)
+![Atari Lynx1](https://img.shields.io/badge/Atari_Lynx1-gold)
+![Atari Lynx2](https://img.shields.io/badge/Atari_Lynx2-gold)
+![Atari Jaguar](https://img.shields.io/badge/Atari_Jaguar-gold)
+
+- - -
 ### Linux:
 [<img 
   src="https://img.icons8.com/color/128/linux.png"
@@ -67,8 +99,21 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE.
 ![PS5](https://img.shields.io/badge/PS5-gold)
 
 - - -
+### Sega:
+[<img 
+  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/128/external-sega-a-japanese-multinational-video-game-developer-and-publisher-company-logo-color-tal-revivo.png"
+  width="128"
+  align="right"
+/>](./More/Sega)
+> CLICK TO PLAY
+
+REVOLUTION.
+
+![Sega saturn](https://img.shields.io/badge/Sega_saturn-gold)
+
+- - -
 ### Windows:
-(<img 
+[<img 
   src="https://img.icons8.com/color/128/windows-11.png"
   width="128"
   align="right"
@@ -94,38 +139,5 @@ XBOX GAMING LIKE... OH CRAP, I WANT THAT GAME BUT... OH CRAP.
 ![XBOX 360](https://img.shields.io/badge/XBOX_360-gold)
 ![XBOX ONE](https://img.shields.io/badge/XBOX_ONE-gold)
 ![XBOX SERIES X/S](https://img.shields.io/badge/XBOX_SERIEES_X%2fS-gold)
-
-- - -
-
-# More
-### Atari:
-[<img 
-  src="https://img.icons8.com/color/128/atari-2600.png"
-  width="128"
-  align="right"
-/>](./More/Atari)
-> CLICK TO PLAY
-
-G(old).
-
-![Atari 2600](https://img.shields.io/badge/Atari_2600-gold)
-![Atari 5200](https://img.shields.io/badge/Atari_5200-gold)
-![Atari XEGS](https://img.shields.io/badge/Atari_XEGS-gold)
-![Atari Lynx1](https://img.shields.io/badge/Atari_Lynx1-gold)
-![Atari Lynx2](https://img.shields.io/badge/Atari_Lynx2-gold)
-![Atari Jaguar](https://img.shields.io/badge/Atari_Jaguar-gold)
-- - -
-
-### Sega:
-[<img 
-  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/128/external-sega-a-japanese-multinational-video-game-developer-and-publisher-company-logo-color-tal-revivo.png"
-  width="128"
-  align="right"
-/>](./More/Sega)
-> CLICK TO PLAY
-
-REVOLUTION.
-
-![Sega saturn](https://img.shields.io/badge/Sega_saturn-gold)
 
 - - -

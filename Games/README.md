@@ -16,7 +16,7 @@ ANDROID GAMES... NOT BEST BUT BETTER THAN NOTHING.
   src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-arcade-devices-flaticons-flat-flat-icons.png"
   width="128"
   align="right"
-/>](./More/Arcade)
+/>](./Arcade)
 > CLICK TO PLAY
 
 BEST.
@@ -30,7 +30,7 @@ BEST.
   src="https://img.icons8.com/color/128/atari-2600.png"
   width="128"
   align="right"
-/>](./More/Atari)
+/>](./Atari)
 > CLICK TO PLAY
 
 G(old).
@@ -104,7 +104,7 @@ PS... MONOPOLY HERE, MONOPOLY THERE, MONOPOLY EVERY WHERE.
   src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/128/external-sega-a-japanese-multinational-video-game-developer-and-publisher-company-logo-color-tal-revivo.png"
   width="128"
   align="right"
-/>](./More/Sega)
+/>](./Sega)
 > CLICK TO PLAY
 
 REVOLUTION.

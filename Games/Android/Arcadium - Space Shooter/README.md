@@ -58,6 +58,8 @@ You can reach this spaceship in the first of the game (without 15Days login):
 4. Set the day at one day forward.
 5. Open the game.
 6. Goto step 1 and do it 15 times.
+## Achievements:
+![Uploading Screenshot_20230910-192841_Google Play Games.png…]()
 
 # Refrences:
 - https://www.hhjack.com/tag/giftcode/
